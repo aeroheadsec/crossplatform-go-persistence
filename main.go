@@ -10,7 +10,7 @@ import (
 )
 
 func main() {
-	fmt.Println("By using this script created by https://github.com/dharmade")
+	fmt.Println("By using this script created by https://github.com/aeroheadsec/smirnoff_cc")
 	fmt.Println("You swear and agree that you will not use it for any malicious use")
 	fmt.Println("Go to the github repository for the full ToS.\n")
 	fmt.Println("Copying to startup....")
